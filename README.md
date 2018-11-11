@@ -1,2 +1,2 @@
-# sprint_layout_macros
+# Sprint Layout macros
 My macros for Sprint Layout pcb tool
